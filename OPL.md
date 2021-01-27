@@ -36,3 +36,8 @@ Pinda2 vs Superpinda <br>
 
 <b>Entkopplung</b><br>
 Squash-Bälle (vorhanden) <br>
+
+<b>Flex-Plate</b><br>
+https://caribou3d.com/de/druckoberflaeche/104-buildtak-flexplate-flexibles-stahlblech-fuer-den-3d-druck.html <br>
+PEI-Sheet von Prusa <br>
+oder gleich koplett bei Prusa? <br>
