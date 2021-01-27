@@ -19,3 +19,10 @@ https://de.aliexpress.com/item/4000048466518.html <br>
 <b>PSU 350W</b> <br>
 Meanwell via Blurolls <br>
 https://de.aliexpress.com/item/33045665308.html <br>
+29€
+
+
+<b>Power Panic Modul</b> <br>
+Blurolls <br>
+https://de.aliexpress.com/item/32951920518.html <br>
+9€
