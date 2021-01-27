@@ -41,3 +41,4 @@ Squash-Bälle (vorhanden) <br>
 https://caribou3d.com/de/druckoberflaeche/104-buildtak-flexplate-flexibles-stahlblech-fuer-den-3d-druck.html <br>
 PEI-Sheet von Prusa <br>
 oder gleich koplett bei Prusa? <br>
+https://energetic3d.aliexpress.com/store/4542004/search?SearchText=prusa <br>
