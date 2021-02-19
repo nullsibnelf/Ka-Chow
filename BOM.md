@@ -31,8 +31,8 @@
 | 0,4er Düse aus gehärtetem Stahl (Brozzl) | 3D-Jake | 21,99 | https://www.3djake.de/brozzl/duese-stahl-gehaertet-fuer-e3d-v6 |
 | Extruder Feder | Prusa | 1,89 | https://shop.prusa3d.com/de/ersatzteile/599-idler-spring.html |
 | Bondtech-Gear | Prusa | 49,99 | https://shop.prusa3d.com/de/mk3mk3smk3s/210-bondtech-drivegear-set.html |
-| Hotend Thermistor (E3D) | 9,62 | https://shop.prusa3d.com/de/mk3mk3smk3s/205-hotend-thermistor-e3d.html |
-| Heater Cartridge 24V 40W (E3D) | Prusa | https://shop.prusa3d.com/de/mk3mk3smk3s/384-hotend-heater-cartridge-e3d-24v-40w.html |
+| Hotend Thermistor (E3D) | Prusa | 9,62 | https://shop.prusa3d.com/de/mk3mk3smk3s/205-hotend-thermistor-e3d.html |
+| Heater Cartridge 24V 40W (E3D) | Prusa |  7,30 | https://shop.prusa3d.com/de/mk3mk3smk3s/384-hotend-heater-cartridge-e3d-24v-40w.html |
 | Hoter-Plug | Prusa | 2,34 | https://shop.prusa3d.com/de/mk3mk3smk3s/125-molex-connector-heater-cartridge-heatbed-psu.html |
 | Power-Panic Cable | Prusa | 3,82 | https://shop.prusa3d.com/de/mk3mk3smk3s/969-psu-einsy-power-panic-cable.html |
 | IR-Sensor-Cable | Prusa | 3,82 | https://shop.prusa3d.com/de/mk3mk3smk3s/922-ir-filament-sensor-einsy-cable.html |
