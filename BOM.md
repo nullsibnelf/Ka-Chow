@@ -30,7 +30,7 @@
 | PTFE Inliner | Prusa | 0,73 | https://shop.prusa3d.com/de/mk3mk3smk3s/929-hotend-ptfe-tube-mk25s-mk3s-mmu2s.html |
 | 0,4er Düse aus gehärtetem Stahl (Brozzl) | 3D-Jake | 21,99 | https://www.3djake.de/brozzl/duese-stahl-gehaertet-fuer-e3d-v6 |
 | Extruder Feder | Prusa | 1,89 | https://shop.prusa3d.com/de/ersatzteile/599-idler-spring.html |
-| Bondtech-Gear | Prusa | 49,99 | https://shop.prusa3d.com/de/mk3mk3smk3s/210-bondtech-drivegear-set.html |
+| Bondtech-Gear | Fysetc | 18 | https://www.amazon.de/gp/product/B07JBQRM99/ |
 | Hotend Thermistor (E3D) | Prusa | 9,62 | https://shop.prusa3d.com/de/mk3mk3smk3s/205-hotend-thermistor-e3d.html |
 | Heater Cartridge 24V 40W (E3D) | Prusa |  7,30 | https://shop.prusa3d.com/de/mk3mk3smk3s/384-hotend-heater-cartridge-e3d-24v-40w.html |
 | Hoter-Plug | Prusa | 2,34 | https://shop.prusa3d.com/de/mk3mk3smk3s/125-molex-connector-heater-cartridge-heatbed-psu.html |
@@ -40,7 +40,7 @@
 | Pinda V2 | Caribou | 13,50 | |
 | Hotendlüfter (Sunon) | Caribou | 9,95 | |
 | Bauteil-Lüfter | Prusa | 7,49 | https://shop.prusa3d.com/de/ersatzteile/1020-print-fan-mk3s-mini.html |
-| | | 786 | |
+| | | 754 | |
 
 
 
