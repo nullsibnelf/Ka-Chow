@@ -46,6 +46,5 @@
 
 Squashbälle
 Führungsschienen
-sheet
 mmu
 licht
