@@ -40,7 +40,7 @@
 | Pinda V2 | Caribou | 13,50 | |
 | Hotendlüfter (Sunon) | Caribou | 9,95 | |
 | Bauteil-Lüfter | Prusa | 7,49 | https://shop.prusa3d.com/de/ersatzteile/1020-print-fan-mk3s-mini.html |
-| | | xxx | |
+| | | 786 | |
 
 
 
