@@ -28,6 +28,7 @@
 | E3D V6 Heatblock Silikon-Socke | Caribou | 4,50 | |
 | E3D V6 Heatbreak | Caribou | 13,50 | |
 | Spannzangenklammern (2er-Pack) | Caribou | 0,50 | |
+| PTFE Inliner | Prusa | 0,73 | https://shop.prusa3d.com/de/mk3mk3smk3s/929-hotend-ptfe-tube-mk25s-mk3s-mmu2s.html |
 | 0,4er Düse aus gehärtetem Stahl (Brozzl) | 3D-Jake | 21,99 | https://www.3djake.de/brozzl/duese-stahl-gehaertet-fuer-e3d-v6 |
 | | | 329 | |
 
