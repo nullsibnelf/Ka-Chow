@@ -29,6 +29,7 @@
 | E3D V6 Heatbreak | Caribou | 13,50 | |
 | Spannzangenklammern (2er-Pack) | Caribou | 0,50 | |
 | 0,4er Düse aus gehärtetem Stahl (Brozzl) | 3D-Jake | 21,99 | https://www.3djake.de/brozzl/duese-stahl-gehaertet-fuer-e3d-v6 |
+| | | 329 | |
 
 
 
