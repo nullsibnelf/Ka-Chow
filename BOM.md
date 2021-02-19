@@ -6,7 +6,7 @@
 | Bed-Carriage | Blurolls (aliexpress) | 23 | https://de.aliexpress.com/item/4000048466518.html |
 | Linear Schienen (2x) Y MGN12 | 3D-Druckershop | 27 | https://3d-druckershop.com/p/mgn12-linearfuehrungsschiene-kaufen |
 | Linear-Schienen-Wagen MGN12C (3x) | 3D-Druckershop | 31,50 | https://3d-druckershop.com/p/mgn12-linearfuehrungswagen-kaufen |
-| ||||
+| || || || ||
 | Extruder Motor (LDO) | Caribou | 11,16 | |
 | X & Y Motor-Set (LDO) | Caribou | 23,30 | |
 | Motor-Set Z-Achse Teflon-beschichtet (LDO) | Caribou | 89,50 | |
