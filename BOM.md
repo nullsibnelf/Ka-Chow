@@ -1,8 +1,8 @@
 
-| Bauteil | Zulieferer | Preis | Link |
-| :--- | :--- | :---: | :--- |
-| Frame Bear 2.1 in rot | Blurolls (aliexpress) | 85 | https://de.aliexpress.com/item/4000907880421.html |
-| Heat-Bed | Blurolls (aliexpress) | 36 | https://de.aliexpress.com/item/32975256879.html |
+| Bauteil | Zulieferer | Preis | Link | Abweichend vom MK3 |
+| :--- | :--- | :---: | :--- | :---: |
+| Frame Bear 2.1 in rot | Blurolls (aliexpress) | 85 | https://de.aliexpress.com/item/4000907880421.html | X |
+| Heat-Bed | Blurolls (aliexpress) | 36 | https://de.aliexpress.com/item/32975256879.html | 
 | Steel-Sheet smooth | Prusa | 34,99 | https://shop.prusa3d.com/de/i3-zubehoer-mk3s-mk25s/216-federstahldruckplatte-glattes-pei.html |
 | Bed-Carriage | Blurolls (aliexpress) | 23 | https://de.aliexpress.com/item/4000048466518.html |
 | Linear Schienen (2x) Y MGN12 | 3D-Druckershop | 27 | https://3d-druckershop.com/p/mgn12-linearfuehrungsschiene-kaufen |
